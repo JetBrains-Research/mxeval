@@ -1,3 +1,6 @@
+Repository archived by abarilo as no longer maintained
+
+
 # Execution-based evaluation of code in 10+ languages
 
 This repository contains code to perform execution-based multi-lingual evaluation of code generation capabilities and the corresponding data, namely, a multi-lingual benchmark MBXP, multi-lingual MathQA and multi-lingual HumanEval. Results and findings can be found in the paper "Multi-lingual Evaluation of Code Generation Models" (https://arxiv.org/abs/2210.14868).
